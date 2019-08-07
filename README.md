@@ -1,2 +1,2 @@
 # Jampp
-Cadda ejercicio se encuentra en una Notebook de Jupyter separada.
+Cada ejercicio se encuentra en una Notebook de Jupyter separada.
